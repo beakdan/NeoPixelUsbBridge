@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("NeoPixelUsbBridge")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("HP")]
+[assembly: AssemblyCompany("Adán Bucio")]
 [assembly: AssemblyProduct("NeoPixelUsbBridge")]
-[assembly: AssemblyCopyright("Copyright © HP 2017")]
+[assembly: AssemblyCopyright("Copyright © Adán Bucio 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
