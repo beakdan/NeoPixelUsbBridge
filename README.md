@@ -1,7 +1,7 @@
 # NeoPixelUsbBridge
 Simple program written in C# to control Neopixel (WS2812B & SK6812) leds directly from a PC without a microcontroller. The data stream is formed in the program memory and send to a common USB to Serial bridge.
 ## Suported usb to serial bridges
-Any usb to serial converter should work as long as it can send data at 2Mbps minimum. 3Mbps produces a signal within the limits of the timings specified in the datasheet. The following modules had been tested and work as expected:
+Any usb to serial converter should work as long as it can send data at 2Mbps minimum. 3Mbps produces a signal within the limits specified in the datasheet and would allow higher refresh rates. The following modules had been tested and work as expected:
   * FT232R
   * CH340
   * PL2303HX
