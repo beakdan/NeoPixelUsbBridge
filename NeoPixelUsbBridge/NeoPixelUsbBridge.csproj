@@ -45,7 +45,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="LedEfects.cs" />
-    <Compile Include="Tpm2NetReceiver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
